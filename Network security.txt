@@ -1,1 +1,2 @@
 Malware traffic analysis: http://malware-traffic-analysis.net/
+Automating TLS test with ssllabs-scan: https://reglund.com/automated-tls-scan-and-display-results-with-grades/
